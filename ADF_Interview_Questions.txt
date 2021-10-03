@@ -1,0 +1,24 @@
+1. What is Azure Data Factory
+2. What are the storage types in Azure
+3. When to use Blob Storage
+4. Can you query data from blob storage
+5. What are rich cross-platform SDKs for advanced users
+6. How to Monitor
+7. What is integration run time
+8. What are the top-level concepts of Azure Data Factory
+9. What is Azure Data Lake Storage
+10. How can i schedule a pipeline
+11. Can i pass parameters to a Pipelne run
+12. What is Copy Data tool in Azure Data Factory
+13.  Can an activity in a pipeline consume argyments  		that are passed to a pipeline run
+14. What is the difference between mapping and wrangling data flows
+--------------------------------------------
+
+1. What is linked Service
+
+2. wheather we can used self hosted integration run time in data flow and mapping data flow
+
+3. What is integration runtime complete concept
+
+
+
